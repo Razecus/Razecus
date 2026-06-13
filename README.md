@@ -1,7 +1,7 @@
 ## About Me
 
 - 👋 Hi, I’m @Razecus a Human in a lame robots world :) 
-- 👀 I’m interested in ... electronics, programming, music, I use mostly Linux, 
+- 👀 I’m interested in ... electronics, programming, music and by the way, i love Lunix !
 - 🌱 I’m currently learning E-Cad,CAD & CAM, and all i can cause world is speening fast ... 
 - 💞️ I’m looking to collaborate on Electronics,linux,music and audio, etc... 
 - 📫 How to reach me:
