@@ -1,11 +1,21 @@
-- 👋 Hi, I’m @Razecus
-- 👀 I’m interested in ... electronics, and programming
-- 🌱 I’m currently learning ... all i can
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... 
+## About Me
+
+- 👋 Hi, I’m @Razecus a Human in a lame robots world :) 
+- 👀 I’m interested in ... electronics, programming, music, I use mostly Linux, 
+- 🌱 I’m currently learning E-Cad,CAD & CAM, and all i can cause world is speening fast ... 
+- 💞️ I’m looking to collaborate on Electronics,linux,music and audio, etc... 
+- 📫 How to reach me:
+
+## Social Media
+   
 - [facebook](https://www.facebook.com/CezarVideoBlog) 
 - [twitch](https://www.twitch.tv/razecus)
-- [youtube](https://tinyurl.com/razecus)
+- [youtube](https://youtube.com/@CezarVideoBlog)
+
+## Web and mail
+  
+- [Website](https://razecus.ro)
+- [Email](mailto:razecus@gmail.com)
 
 <!---
 Razecus/Razecus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
